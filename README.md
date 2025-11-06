@@ -12,6 +12,17 @@ Five CLI math games
 <a href="#installation">Installation</a> •
 <a href="#usage">Usage</a> 
 </p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python 3.10+">
+  <img src="https://img.shields.io/badge/Poetry-Dependency%20Manager-60A5FA?style=for-the-badge&logo=poetry&logoColor=fff" alt="Poetry"><br/>
+  <img src="https://img.shields.io/badge/flake8-Linting-FF5F15?style=for-the-badge&logo=python&logoColor=fff" alt="Flake8 Linting">
+  <img src="https://img.shields.io/badge/CLI%20App-Interactive%20Games-4CAF50?style=for-the-badge" alt="CLI Games">
+
+
+</p>
+
 </div>
 
 <details>
